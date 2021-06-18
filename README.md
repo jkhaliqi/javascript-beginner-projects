@@ -1,6 +1,4 @@
-# Javascript-beginner-projects
-
-### 15 projects completed to practice web development skills
+# 15 projects completed to practice web development skills
 
 1. Color flipper
     - link:
