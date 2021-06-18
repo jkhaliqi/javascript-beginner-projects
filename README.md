@@ -1,4 +1,4 @@
-# 15 projects completed to practice web development skills
+# 14 projects completed to practice web development skills
 
 1. Color flipper
     - link:
@@ -16,19 +16,17 @@
     - link:
 8. Video
     - link:
-9. 
+9. Scroll
     - link:
-10. Scroll
+10. Tabs
     - link:
-11. Tabs
+11. Countdown Timer For Giveaway
     - link:
-12. Countdown Timer For Giveaway
-    - link:
-13. Random Paragraph Generator
+12. Random Paragraph Generator
     - link: 
-14. Grocery List
+13. Grocery List
     - link:
-15. Picture Slider
+14. Picture Slider
     - link:
 
 
