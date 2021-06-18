@@ -5,5 +5,5 @@
 1. here
 2. there
 3. where
-  + inside
+  1. inside
 5. back out
